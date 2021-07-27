@@ -19,7 +19,7 @@ function maininfo(){
 }
 
 
-class DriveClass extends BaseClass{ // child class 
+class DriveClass extends BaseClass{ // child class   //inherit class 
      public $salary=1000;
 
     function info(){

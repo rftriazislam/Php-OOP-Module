@@ -16,7 +16,7 @@ protected function show(){
 
 }
 
-class Child extends Base{
+class Child extends Base{ //inherit class 
 
 public function child_show(){
     echo $this->name;
